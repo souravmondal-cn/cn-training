@@ -1,10 +1,7 @@
 <?php
 /**
-<<<<<<< HEAD
  * Twenty Twenty-Two functions and definitions
-=======
  * @subpackage Twenty_Twenty_Two
->>>>>>> develop
  * @since Twenty Twenty-Two 1.2
  */
 
